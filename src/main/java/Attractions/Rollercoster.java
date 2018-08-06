@@ -16,7 +16,7 @@ public class Rollercoster extends Attraction implements ITicketed {
     @Override
     public double priceFor(Visitor visitor){
         double price;
-        if (visitor.getHeight() >= 200){
+        if (visitor.getHeight() > 200){
             price = defaultPrice() * 2;
         } else {
             price = defaultPrice();
