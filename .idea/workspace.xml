@@ -621,7 +621,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533585682139" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533586263026" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -636,20 +636,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IceCreamStallTest.hasName">
-    <configuration name="All in ThemePark_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.IceCreamStallTest.hasOwnerName">
     <configuration name="IceCreamStallTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
       <option name="METHOD_NAME" value="hasName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IceCreamStallTest.hasOwnerName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
+      <option name="METHOD_NAME" value="hasOwnerName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -686,19 +688,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in ThemePark_test" />
       <item itemvalue="JUnit.VisitorTest.hasAge" />
       <item itemvalue="JUnit.VisitorTest.hasHeight" />
       <item itemvalue="JUnit.VisitorTest.hasMoney" />
       <item itemvalue="JUnit.IceCreamStallTest.hasName" />
+      <item itemvalue="JUnit.IceCreamStallTest.hasOwnerName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IceCreamStallTest.hasOwnerName" />
         <item itemvalue="JUnit.IceCreamStallTest.hasName" />
         <item itemvalue="JUnit.VisitorTest.hasMoney" />
         <item itemvalue="JUnit.VisitorTest.hasHeight" />
         <item itemvalue="JUnit.VisitorTest.hasAge" />
-        <item itemvalue="JUnit.All in ThemePark_test" />
       </list>
     </recent_temporary>
   </component>

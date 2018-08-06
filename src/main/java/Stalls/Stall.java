@@ -15,4 +15,8 @@ public abstract class Stall {
     public String getName() {
         return name;
     }
+
+    public String getOwnerName() {
+        return ownerName;
+    }
 }

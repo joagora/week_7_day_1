@@ -17,4 +17,8 @@ public class IceCreamStallTest {
         assertEquals("Iceland", iceCreamStall.getName());
     }
 
+    @Test
+    public void hasOwnerName(){
+        assertEquals("Zenon Mazurek", iceCreamStall.getOwnerName());
+    }
 }
