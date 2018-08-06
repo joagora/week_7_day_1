@@ -9,7 +9,7 @@ public class VisitorTest {
     Visitor visitor;
     @Before
     public void before(){
-        visitor = new Visitor(12, 145, 15.00);
+        visitor = new Visitor("Mike", 12, 145, 15.00);
     }
 
     @Test
@@ -25,5 +25,10 @@ public class VisitorTest {
     @Test
     public void hasMoney(){
         assertEquals(15.00, visitor.getMoney(), 2);
+    }
+
+    @Test
+    public void hasName(){
+        assertEquals("Mike", visitor.getName());
     }
 }
