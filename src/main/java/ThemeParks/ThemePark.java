@@ -1,6 +1,7 @@
 package ThemeParks;
 
 import Attractions.Attraction;
+import Interfaces.IRating;
 import Stalls.Stall;
 import Visitors.Visitor;
 
@@ -20,5 +21,22 @@ public class ThemePark {
 
     public String visit(Visitor visitor, Attraction attraction){
         return visitor.getName() + " visited " + attraction.getName() + ".";
+    }
+
+    public ArrayList<Attraction> getAttractionList() {
+        return attractionList;
+    }
+
+    public void addAttraction(Attraction attraction){
+        attractionList.add(attraction);
+    }
+    public ArrayList<IRating> getAllRated(){
+        ArrayList<IRating> ratedAttractions = new ArrayList<>();
+        for (Attraction attraction: attractionList) {
+            if (attraction instanceof IRating){
+                ratedAttractions.add(attraction);
+            }
+        }
+        return ratedAttractions;
     }
 }

@@ -11,13 +11,17 @@ public class RollercosterTest {
     Visitor visitorRaphael;
     Visitor visitorMike;
     Visitor visitorJoanna;
+    Visitor visitorRicardo;
+    Visitor visitorMark;
 
     @Before
     public void before(){
         rollercoster = new Rollercoster("Snake");
-        visitorRaphael = new Visitor("Raphael", 28, 180, 3.00);
-        visitorMike = new Visitor("Mike", 30, 200, 40.00);
+        visitorRaphael = new Visitor("Raphael", 28, 145, 3.00);
+        visitorMike = new Visitor("Mike", 30, 120, 40.00);
         visitorJoanna = new Visitor("Joanna", 27, 201, 5.00);
+        visitorRicardo = new Visitor("Ricardo", 27, 130, 5.00);
+        visitorMark = new Visitor("Mark", 11, 180, 5.00);
     }
 
     @Test
@@ -39,6 +43,22 @@ public class RollercosterTest {
     public void hasPriceForVisitorOver200(){
         assertEquals(16.80, rollercoster.priceFor(visitorJoanna));
     }
+
+    @Test
+    public void canCheckIfAllowedOver12And145CM(){
+        assertEquals(true, rollercoster.isAllowedTo(visitorJoanna));
+    }
+
+    @Test
+    public void canCheckIfAllowedOver12Under145CM(){
+        assertEquals(false, rollercoster.isAllowedTo(visitorRicardo));
+    }
+
+    @Test
+    public void canCheckIfAllowedUnder12Over145CM(){
+        assertEquals(false, rollercoster.isAllowedTo(visitorRicardo));
+    }
+
 
 
 }

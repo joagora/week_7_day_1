@@ -1,8 +1,9 @@
 package Stalls;
 
+import Interfaces.IRating;
 import Interfaces.ITicketed;
 
-public abstract class Stall implements ITicketed {
+public abstract class Stall implements ITicketed, IRating {
 
     private String name;
     private String ownerName;
@@ -16,6 +17,7 @@ public abstract class Stall implements ITicketed {
         this.rating = 0;
     }
 
+    @Override
     public String getName() {
         return this.name;
     }
@@ -28,6 +30,7 @@ public abstract class Stall implements ITicketed {
         return this.parkingSpot;
     }
 
+    @Override
     public int getRating(){
         return this.rating;
     }
