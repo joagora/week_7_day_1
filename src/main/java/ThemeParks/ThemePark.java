@@ -2,6 +2,7 @@ package ThemeParks;
 
 import Attractions.Attraction;
 import Interfaces.IRating;
+import Interfaces.ITicketed;
 import Stalls.Stall;
 import Visitors.Visitor;
 
@@ -39,4 +40,14 @@ public class ThemePark {
         }
         return ratedAttractions;
     }
+//not working
+//    public ArrayList<ITicketed> getAllAttractionsAllowedFor(){
+//        ArrayList<ITicketed> availableAttractions = new ArrayList<>();
+//        for (Attraction attraction: attractionList) {
+//            if (attraction instanceof ITicketed){
+//                availableAttractions.add(attraction);
+//            }
+//        }
+//    return availableAttractions;
+//    }
 }
