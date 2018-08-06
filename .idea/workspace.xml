@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2708c217-e237-4c01-b492-2154b8932fc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stalls/CandyFlossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,43 +30,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1836" />
+          <entry key="java" value="2193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1836" />
+          <entry key="JAVA" value="2193" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Attraction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RollercosterTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,14 +121,33 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="450">
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#129#130#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
                 <element signature="e#307#308#0" expanded="true" />
                 <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/CandyFlossStall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,11 +156,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="390">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#344#345#0" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -530,9 +541,10 @@
         <option value="$PROJECT_DIR$/src/test/java/RollercosterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Visitors/Visitor.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisitorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" />
         <option value="$PROJECT_DIR$/src/test/java/StallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/CandyFlossStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" />
         <option value="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" />
       </list>
     </option>
@@ -621,7 +633,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533586359328" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533586960570" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -636,7 +648,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IceCreamStallTest.hasParkingSpot">
+  <component name="RunManager" selected="JUnit.IceCreamStallTest.hasRating">
     <configuration name="IceCreamStallTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -667,11 +679,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisitorTest.hasHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IceCreamStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VisitorTest" />
-      <option name="METHOD_NAME" value="hasHeight" />
+      <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
+      <option name="METHOD_NAME" value="hasRating" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -688,19 +700,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.VisitorTest.hasHeight" />
       <item itemvalue="JUnit.VisitorTest.hasMoney" />
       <item itemvalue="JUnit.IceCreamStallTest.hasName" />
       <item itemvalue="JUnit.IceCreamStallTest.hasOwnerName" />
       <item itemvalue="JUnit.IceCreamStallTest.hasParkingSpot" />
+      <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
         <item itemvalue="JUnit.IceCreamStallTest.hasParkingSpot" />
         <item itemvalue="JUnit.IceCreamStallTest.hasOwnerName" />
         <item itemvalue="JUnit.IceCreamStallTest.hasName" />
         <item itemvalue="JUnit.VisitorTest.hasMoney" />
-        <item itemvalue="JUnit.VisitorTest.hasHeight" />
       </list>
     </recent_temporary>
   </component>
@@ -735,6 +747,15 @@
     </history-entry>
     <history-entry file="VisitorTest_hasMoney - 2018.08.06 at 21h 00m 57s.xml">
       <configuration name="VisitorTest.hasMoney" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IceCreamStallTest_hasName - 2018.08.06 at 21h 11m 04s.xml">
+      <configuration name="IceCreamStallTest.hasName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IceCreamStallTest_hasOwnerName - 2018.08.06 at 21h 12m 40s.xml">
+      <configuration name="IceCreamStallTest.hasOwnerName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IceCreamStallTest_hasParkingSpot - 2018.08.06 at 21h 14m 52s.xml">
+      <configuration name="IceCreamStallTest.hasParkingSpot" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -895,17 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StallTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -953,16 +963,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/CandyFlossStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="450">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
             <element signature="e#307#308#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
           </folding>
         </state>
       </provider>
