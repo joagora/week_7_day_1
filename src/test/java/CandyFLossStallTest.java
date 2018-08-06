@@ -17,5 +17,10 @@ public class CandyFLossStallTest {
         assertEquals("Candy Crash", candyFlossStall.getName());
     }
 
+    @Test
+    public void hasOwnerName(){
+        assertEquals("Lolla Pop", candyFlossStall.getOwnerName());
+    }
+
 
 }
