@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2708c217-e237-4c01-b492-2154b8932fc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ISecurity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/Playground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -42,12 +41,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="java" value="5026" />
+          <entry key="java" value="5313" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5026" />
+          <entry key="JAVA" value="5313" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
@@ -58,9 +57,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="390">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#235#236#0" expanded="true" />
                 <element signature="e#262#263#0" expanded="true" />
                 <element signature="e#322#323#0" expanded="true" />
@@ -84,15 +84,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+            <state relative-caret-position="177">
+              <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,17 +135,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="15">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#678#679#0" expanded="true" />
                 <element signature="e#742#743#0" expanded="true" />
                 <element signature="e#791#792#0" expanded="true" />
                 <element signature="e#858#859#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -532,13 +538,13 @@
         <option value="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/CandyFlossStall.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" />
         <option value="$PROJECT_DIR$/src/test/java/CandyFLossStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attractions/Playground.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
       </list>
     </option>
   </component>
@@ -642,7 +648,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533593143053" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533593448648" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -657,17 +663,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PlaygroundTest.canCheckIfAllowed15">
-    <configuration name="PlaygroundTest.canCheckIfAllowed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
-      <option name="METHOD_NAME" value="canCheckIfAllowed" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TobaccoStallTest.canCheckIfAllowedUnderAge18">
     <configuration name="PlaygroundTest.canCheckIfAllowed15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -678,50 +674,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaygroundTest.canCheckIfAllowedLessThan15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
-      <option name="METHOD_NAME" value="canCheckIfAllowedLessThan15" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlaygroundTest.canCheckIfAllowedMoreThan15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
-      <option name="METHOD_NAME" value="canCheckIfAllowedMoreThan15" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TobaccoStallTest.hasPriceForVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TobaccoStallTest.canCheckIfAllowed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
-      <option name="METHOD_NAME" value="hasPriceForVisitor" />
+      <option name="METHOD_NAME" value="canCheckIfAllowed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TobaccoStallTest.canCheckIfAllowedAge18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
+      <option name="METHOD_NAME" value="canCheckIfAllowedAge18" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TobaccoStallTest.canCheckIfAllowedOner18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
+      <option name="METHOD_NAME" value="canCheckIfAllowedOner18" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TobaccoStallTest.canCheckIfAllowedUnderAge18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
+      <option name="METHOD_NAME" value="canCheckIfAllowedUnderAge18" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TobaccoStallTest.hasPriceForVisitor" />
-      <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowed" />
-      <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowedMoreThan15" />
-      <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowedLessThan15" />
       <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowed15" />
+      <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowed" />
+      <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowedOner18" />
+      <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowedAge18" />
+      <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowedUnderAge18" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowedUnderAge18" />
+        <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowedAge18" />
+        <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowedOner18" />
+        <item itemvalue="JUnit.TobaccoStallTest.canCheckIfAllowed" />
         <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowed15" />
-        <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowedLessThan15" />
-        <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowedMoreThan15" />
-        <item itemvalue="JUnit.PlaygroundTest.canCheckIfAllowed" />
-        <item itemvalue="JUnit.TobaccoStallTest.hasPriceForVisitor" />
       </list>
     </recent_temporary>
   </component>
@@ -739,21 +745,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RollercosterTest_hasPriceForVisitorUnder200 - 2018.08.06 at 22h 41m 15s.xml">
-      <configuration name="RollercosterTest.hasPriceForVisitorUnder200" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercosterTest_hasPriceForVisitorOver200 - 2018.08.06 at 22h 41m 19s.xml">
-      <configuration name="RollercosterTest.hasPriceForVisitorOver200" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercosterTest_hasPriceForVisitorOver200 - 2018.08.06 at 22h 41m 29s.xml">
-      <configuration name="RollercosterTest.hasPriceForVisitorOver200" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CandyFLossStallTest_hasDefaultPrice - 2018.08.06 at 22h 46m 46s.xml">
-      <configuration name="CandyFLossStallTest.hasDefaultPrice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CandyFLossStallTest_hasPriceForVisitor - 2018.08.06 at 22h 49m 57s.xml">
-      <configuration name="CandyFLossStallTest.hasPriceForVisitor" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IceCreamStallTest_hasDefaultPrice - 2018.08.06 at 22h 52m 11s.xml">
       <configuration name="IceCreamStallTest.hasDefaultPrice" configurationId="JUnit" />
     </history-entry>
@@ -768,6 +759,21 @@
     </history-entry>
     <history-entry file="TobaccoStallTest_hasPriceForVisitor - 2018.08.06 at 22h 54m 08s.xml">
       <configuration name="TobaccoStallTest.hasPriceForVisitor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_canCheckIfAllowed - 2018.08.06 at 23h 03m 30s.xml">
+      <configuration name="PlaygroundTest.canCheckIfAllowed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_canCheckIfAllowedMoreThan15 - 2018.08.06 at 23h 04m 40s.xml">
+      <configuration name="PlaygroundTest.canCheckIfAllowedMoreThan15" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_canCheckIfAllowedLessThan15 - 2018.08.06 at 23h 04m 42s.xml">
+      <configuration name="PlaygroundTest.canCheckIfAllowedLessThan15" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_canCheckIfAllowed15 - 2018.08.06 at 23h 05m 44s.xml">
+      <configuration name="PlaygroundTest.canCheckIfAllowed15" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_canCheckIfAllowed15 - 2018.08.06 at 23h 05m 53s.xml">
+      <configuration name="PlaygroundTest.canCheckIfAllowed15" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1000,20 +1006,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/CandyFlossStall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1036,19 +1028,6 @@
             <element signature="e#268#269#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1086,14 +1065,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        <state relative-caret-position="390">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
           </folding>
         </state>
       </provider>
