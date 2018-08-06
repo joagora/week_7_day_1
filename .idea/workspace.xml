@@ -636,7 +636,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533587564891" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533587688107" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -651,7 +651,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TobaccoStallTest.hasName">
+  <component name="RunManager" selected="JUnit.TobaccoStallTest.hasOwnerName">
     <configuration name="CandyFLossStallTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -682,16 +682,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IceCreamStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
-      <option name="METHOD_NAME" value="hasRating" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TobaccoStallTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -702,20 +692,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TobaccoStallTest.hasOwnerName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
+      <option name="METHOD_NAME" value="hasOwnerName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasName" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasOwnerName" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasParkingSpot" />
       <item itemvalue="JUnit.TobaccoStallTest.hasName" />
+      <item itemvalue="JUnit.TobaccoStallTest.hasOwnerName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TobaccoStallTest.hasOwnerName" />
         <item itemvalue="JUnit.TobaccoStallTest.hasName" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasParkingSpot" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasOwnerName" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasName" />
-        <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
       </list>
     </recent_temporary>
   </component>
