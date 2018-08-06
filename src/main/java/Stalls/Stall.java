@@ -1,6 +1,8 @@
 package Stalls;
 
-public abstract class Stall {
+import Interfaces.ITicketed;
+
+public abstract class Stall implements ITicketed {
 
     private String name;
     private String ownerName;
