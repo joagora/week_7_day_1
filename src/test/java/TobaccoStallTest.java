@@ -21,4 +21,9 @@ public class TobaccoStallTest {
     public void hasOwnerName(){
         assertEquals("John Smoke", tobaccoStall.getOwnerName());
     }
+
+    @Test
+    public void hasParkingSpot(){
+        assertEquals(5, tobaccoStall.getParkingSpot());
+    }
 }
