@@ -19,4 +19,8 @@ public abstract class Stall {
     public String getOwnerName() {
         return ownerName;
     }
+
+    public int getParkingSpot() {
+        return parkingSpot;
+    }
 }
