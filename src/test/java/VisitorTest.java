@@ -21,4 +21,9 @@ public class VisitorTest {
     public void hasHeight(){
         assertEquals(145, visitor.getHeight());
     }
+
+    @Test
+    public void hasMoney(){
+        assertEquals(15.00, visitor.getMoney(), 2);
+    }
 }

@@ -602,7 +602,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533585396391" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533585572022" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -617,7 +617,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.VisitorTest.hasHeight">
+  <component name="RunManager" selected="JUnit.VisitorTest.hasMoney">
     <configuration name="All in ThemePark_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -656,14 +656,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VisitorTest.hasMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VisitorTest" />
+      <option name="METHOD_NAME" value="hasMoney" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.DodgemsTest.hasName" />
       <item itemvalue="JUnit.All in ThemePark_test" />
       <item itemvalue="JUnit.VisitorTest.hasAge" />
       <item itemvalue="JUnit.VisitorTest.hasHeight" />
+      <item itemvalue="JUnit.VisitorTest.hasMoney" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VisitorTest.hasMoney" />
         <item itemvalue="JUnit.VisitorTest.hasHeight" />
         <item itemvalue="JUnit.VisitorTest.hasAge" />
         <item itemvalue="JUnit.All in ThemePark_test" />
