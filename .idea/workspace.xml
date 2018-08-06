@@ -661,7 +661,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533592004847" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533592334408" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -676,7 +676,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CandyFLossStallTest.hasPriceForVisitor">
+  <component name="RunManager" selected="JUnit.All in ThemePark_test">
+    <configuration name="All in ThemePark_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CandyFLossStallTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -697,50 +705,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollercosterTest.hasPriceForVisitorHeight200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IceCreamStallTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RollercosterTest" />
-      <option name="METHOD_NAME" value="hasPriceForVisitorHeight200" />
+      <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
+      <option name="METHOD_NAME" value="hasDefaultPrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollercosterTest.hasPriceForVisitorOver200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IceCreamStallTest.hasPriceForVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RollercosterTest" />
-      <option name="METHOD_NAME" value="hasPriceForVisitorOver200" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RollercosterTest.hasPriceForVisitorUnder200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RollercosterTest" />
-      <option name="METHOD_NAME" value="hasPriceForVisitorUnder200" />
+      <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
+      <option name="METHOD_NAME" value="hasPriceForVisitor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RollercosterTest.hasPriceForVisitorOver200" />
-      <item itemvalue="JUnit.RollercosterTest.hasPriceForVisitorUnder200" />
-      <item itemvalue="JUnit.RollercosterTest.hasPriceForVisitorHeight200" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasDefaultPrice" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasPriceForVisitor" />
+      <item itemvalue="JUnit.IceCreamStallTest.hasDefaultPrice" />
+      <item itemvalue="JUnit.IceCreamStallTest.hasPriceForVisitor" />
+      <item itemvalue="JUnit.All in ThemePark_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in ThemePark_test" />
+        <item itemvalue="JUnit.IceCreamStallTest.hasPriceForVisitor" />
+        <item itemvalue="JUnit.IceCreamStallTest.hasDefaultPrice" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasPriceForVisitor" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasDefaultPrice" />
-        <item itemvalue="JUnit.RollercosterTest.hasPriceForVisitorOver200" />
-        <item itemvalue="JUnit.RollercosterTest.hasPriceForVisitorUnder200" />
-        <item itemvalue="JUnit.RollercosterTest.hasPriceForVisitorHeight200" />
       </list>
     </recent_temporary>
   </component>
