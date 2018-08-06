@@ -634,7 +634,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533587201817" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533587283812" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -649,7 +649,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CandyFLossStallTest.hasOwnerName">
+  <component name="RunManager" selected="JUnit.CandyFLossStallTest.hasParkingSpot">
     <configuration name="CandyFLossStallTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -670,11 +670,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IceCreamStallTest.hasOwnerName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CandyFLossStallTest.hasParkingSpot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IceCreamStallTest" />
-      <option name="METHOD_NAME" value="hasOwnerName" />
+      <option name="MAIN_CLASS_NAME" value="CandyFLossStallTest" />
+      <option name="METHOD_NAME" value="hasParkingSpot" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -701,19 +701,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.IceCreamStallTest.hasOwnerName" />
       <item itemvalue="JUnit.IceCreamStallTest.hasParkingSpot" />
       <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasName" />
       <item itemvalue="JUnit.CandyFLossStallTest.hasOwnerName" />
+      <item itemvalue="JUnit.CandyFLossStallTest.hasParkingSpot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CandyFLossStallTest.hasParkingSpot" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasOwnerName" />
         <item itemvalue="JUnit.CandyFLossStallTest.hasName" />
         <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
         <item itemvalue="JUnit.IceCreamStallTest.hasParkingSpot" />
-        <item itemvalue="JUnit.IceCreamStallTest.hasOwnerName" />
       </list>
     </recent_temporary>
   </component>

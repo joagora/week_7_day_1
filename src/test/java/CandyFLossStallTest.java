@@ -22,5 +22,8 @@ public class CandyFLossStallTest {
         assertEquals("Lolla Pop", candyFlossStall.getOwnerName());
     }
 
-
+    @Test
+    public void hasParkingSpot(){
+        assertEquals(2, candyFlossStall.getParkingSpot());
+    }
 }
